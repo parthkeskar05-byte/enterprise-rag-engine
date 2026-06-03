@@ -44,7 +44,7 @@ cd YOUR_REPO_NAME
 ```
 2. Environment Configuration
 Create a .env file in the root directory to store your Groq API key:
-Code snippet
+
 ```bash
 GROQ_API_KEY=gsk_your_api_key_here
 ```
